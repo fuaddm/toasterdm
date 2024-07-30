@@ -2,7 +2,7 @@
 
 # Toaster Notification System
 
-A customizable and easy-to-use toast notification system for React applications.
+A customizable and easy-to-use toast notification system for React applications. Check it out [here](https://toaster-web.vercel.app/)!
 
 ## Features
 
