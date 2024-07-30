@@ -1,0 +1,5 @@
+/components
+/node_modules
+/svg
+index.jsx
+rollup.config.mjs
