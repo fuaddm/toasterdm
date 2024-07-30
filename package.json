@@ -1,6 +1,6 @@
 {
   "name": "toasterdm",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,6 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "nanoid": "^5.0.7"
-  },
   "devDependencies": {
     "@babel/preset-react": "^7.24.7",
     "@rollup/plugin-babel": "^6.0.4",
